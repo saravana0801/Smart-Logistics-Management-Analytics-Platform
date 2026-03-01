@@ -1,0 +1,501 @@
+route_id,origin,destination,distance_km,avg_time_hours
+fe423f38,East Victoria,South Raymond,1016.5,44.2
+080ff620,Mooreshire,Davidshire,58.3,45.3
+aa6e4a5f,Mooreshire,South Raymond,977.98,42.4
+3aa7af93,Kimfort,East Johnshire,691.84,35.7
+39913248,Tiffanyton,East David,1836.43,24.4
+5aa09e74,New Colleen,West Jared,1939.82,1.7
+a85c8baa,Port Sandrachester,West Timothychester,1639.64,42.4
+1a73a0ce,South Ashleystad,Jonestown,946.48,37.2
+326014d5,Brookeburgh,New Patriciashire,525.35,15.8
+daf01937,Jonestown,North Arthur,1062.4,3.7
+6cd9cd80,East David,North Trevorbury,587.11,8.5
+6bde784b,Heathermouth,North Christianside,1927.59,1.8
+819e0c6f,Davidshire,East David,462.96,36.3
+4bc61799,Jasonchester,South Jacqueline,1921.08,47.0
+418a84e7,North Claudiatown,Adammouth,1135.02,33.9
+157b6895,East David,North Christopherstad,1387.54,47.3
+f178d8cc,Port Sandrachester,Brookeburgh,593.66,8.9
+37fefdc9,North Williamchester,Christinechester,1123.0,4.7
+aae51f12,New Patriciashire,West Jared,1500.58,42.8
+25a452ce,Port Kimberly,Hollyshire,313.09,11.8
+833d5db2,West Timothychester,Tiffanyton,1298.41,13.1
+dca50f1a,Christinechester,South John,1628.49,40.0
+82a81283,North Dawnfort,Tiffanyton,500.98,38.4
+18c6e7af,South Ryan,Port Kimberly,306.82,11.3
+cab04ce1,Andersonfurt,Port Ronald,1947.91,3.4
+abebda8c,Port Barbara,South Ashleystad,1454.38,44.3
+6a4d44ff,North Arthur,Carolmouth,501.02,36.9
+5d476f19,Carolmouth,South Brianside,1588.6,21.7
+f8991b81,Darinton,West Wesley,70.43,35.5
+e9be0cb8,North Williamchester,South Raymond,1416.44,6.0
+3b2ab19e,Darinton,West Jared,524.36,5.3
+e1a12d37,Port Ronald,Port Barbara,680.63,46.6
+1f0423e0,Kimfort,North Dawnfort,1185.37,24.2
+049d4b2f,East Victoria,West Jared,1779.57,28.6
+99114803,West Timothychester,South Ashleystad,66.69,9.5
+ddf8ae06,Carolmouth,Davidshire,1032.58,18.1
+eef1a4aa,Adammouth,South Johnhaven,1275.67,8.0
+e14e08ae,Jonestown,Tiffanyton,1956.52,24.2
+af77c2a9,Hollyshire,North Christopherstad,139.89,19.6
+9298c521,Tiffanyton,South Raymond,1437.79,12.7
+a44ed486,Mooreshire,South Jacqueline,548.51,30.5
+a747cfcc,South Johnhaven,Port Sandrachester,719.16,43.5
+2c3a79b2,Christinechester,South John,643.9,8.2
+0e51201c,New Jeremyshire,West Timothychester,1625.85,23.2
+db60cbc1,North Justin,South John,1442.34,15.3
+2871e978,New Colleen,Andersonfurt,1800.85,8.3
+f72ab2ed,Kimfort,Port Heather,1854.33,46.9
+446fdea7,Port Kimberly,Ginafort,223.14,7.9
+63a3ca52,East Johnshire,Darinton,1428.87,18.3
+8d18f5c7,North Claudiatown,Carolmouth,922.67,32.2
+53fe00fe,West Wesley,East Victoria,1566.7,34.8
+63517389,West Timothychester,Ginafort,1148.13,8.3
+2316863e,Adammouth,North Trevorbury,1214.64,34.2
+5872337d,North Dawnfort,Ginafort,1163.3,20.4
+e86fb998,New Patriciashire,North Trevorbury,1766.49,40.4
+17a672b4,Port Sandrachester,South Raymond,1615.58,32.2
+26594f39,Adammouth,East Victoria,171.54,46.1
+5385052e,South Katiemouth,Hollyshire,1814.14,28.2
+0c9f726c,Adammouth,Mooreshire,363.5,24.8
+17188391,Ginafort,Robertsburgh,208.64,41.1
+b182d1ef,Heathermouth,East Victoria,1096.26,18.9
+6c182367,Hollyshire,Jonestown,855.83,37.4
+3f6699ea,East David,Port Kimberly,760.85,7.9
+fcada4a9,Port Heather,Robertsburgh,728.74,43.7
+84b51134,Davidshire,North Williamchester,1909.52,26.8
+6a2016a3,Robertsburgh,Brookeburgh,1275.65,33.6
+1d743e3e,North Christopherstad,North Williamchester,1277.49,24.5
+b6b99141,Brookeburgh,East Victoria,1991.89,2.2
+2f919e22,North Trevorbury,Carolmouth,1777.77,29.1
+ac27d828,Ginafort,Robertsburgh,339.63,17.1
+02b12d16,South Ashleystad,Hollyshire,1285.6,16.8
+6bd7e05b,West Jared,South John,1209.8,23.8
+34d30b43,Jonestown,North Christianside,1480.57,26.4
+bf1c3138,West Jared,Brookeburgh,1282.18,3.8
+8b506f72,Tiffanyton,Kimfort,545.92,7.5
+39e31e55,Port Barbara,Port Heather,919.1,43.2
+63dbf09c,New Colleen,North Arthur,78.49,11.7
+8ffdc736,West Tarachester,North Justin,1569.53,18.4
+a165cecc,Darinton,South John,651.55,41.1
+d21df1a4,New Jesse,South Brianside,246.93,31.3
+f736a75e,North Justin,West Tarachester,1368.71,9.3
+7d67b374,Ginafort,Andersonfurt,1383.67,14.9
+a9a76f2f,Port Barbara,North Williamchester,1603.72,29.9
+a45c6220,Carolmouth,New Colleen,142.05,34.9
+fd8cd4ab,Port Ronald,South John,540.58,22.7
+b531dc0f,Mooreshire,South Katiemouth,1474.51,34.1
+da33da84,Carolmouth,West Jared,596.07,12.9
+78d9ea24,Ginafort,South Johnhaven,221.59,4.7
+5a359fc9,Adammouth,Port Ronald,1939.23,13.6
+e7a3f2ef,Jonestown,Andersonfurt,300.31,44.8
+3f1648db,Brookeburgh,New Jeremyshire,1418.83,12.6
+37b26525,North Claudiatown,North Trevorbury,1770.07,16.8
+36bb60b7,South Ashleystad,Hollyshire,857.83,6.3
+225f1573,North Trevorbury,Mooreshire,101.98,26.7
+e293f92d,North Justin,West Timothychester,1955.88,45.9
+fb24ec53,South Raymond,Darinton,1047.25,1.5
+0e91533b,New Jeremyshire,North Dawnfort,773.36,2.2
+ff32b347,North Christianside,New Colleen,860.41,46.0
+63f4df7e,South Johnhaven,West Tarachester,1419.33,14.3
+2ee482e3,Robertsburgh,New Jesse,231.06,21.9
+fbdf9bde,Ginafort,Jasonchester,514.06,43.1
+323a04d6,South Raymond,Port Heather,1419.56,8.2
+e6920a40,Port Barbara,Andersonfurt,1324.45,43.6
+f38c3539,Darinton,Port Kimberly,1426.26,35.7
+a5688df9,Hollyshire,Brookeburgh,1228.52,37.3
+20a5943e,South Ryan,Andersonfurt,1959.67,18.5
+96c08b35,Darinton,Adammouth,693.69,21.9
+c045772a,West Timothychester,Port Sandrachester,176.95,31.9
+e6bbf090,North Trevorbury,South Katiemouth,1851.88,46.5
+46f5128f,Tiffanyton,Andersonfurt,1573.96,23.2
+f9752653,South Katiemouth,Jonestown,1748.21,38.9
+0ead041a,East David,North Williamchester,474.7,13.6
+23c4f1be,South Brianside,East Johnshire,1126.47,13.2
+eaec8767,North Arthur,South Johnhaven,1499.88,24.9
+189d3a07,South Johnhaven,Port Sandrachester,552.96,5.9
+7e84f01f,Port Heather,South Jacqueline,1038.98,19.6
+60de4bc9,Tiffanyton,Port Barbara,723.8,11.6
+79373533,Port Ronald,East Victoria,1285.16,26.6
+3be86faa,Davidshire,East David,771.16,5.5
+6ba78200,Kimfort,Shannonview,1161.02,2.0
+6b16ba2e,Andersonfurt,Port Sandrachester,1328.25,41.0
+54b16f55,Robertsburgh,New Jesse,1375.83,31.8
+1a11f6b4,North Williamchester,Heathermouth,1036.21,38.6
+64cb69c6,Carolmouth,North Dawnfort,1928.17,16.3
+be80ea02,New Jeremyshire,East Victoria,1315.47,38.2
+33f7c8ad,Jonestown,South Raymond,926.74,30.0
+9a8a8bdf,Mooreshire,East Victoria,64.13,26.3
+a98b5818,North Williamchester,North Christopherstad,367.47,5.8
+a21ac041,South Ashleystad,Shannonview,1431.28,12.8
+8d4324b8,South Jacqueline,South John,1745.02,46.4
+85ac7851,South Johnhaven,West Jared,1968.53,23.3
+cceb1880,Shannonview,Port Barbara,1787.82,40.8
+5856cc67,North Claudiatown,South Ryan,1474.25,21.8
+5c625727,Davidshire,Jonestown,1277.38,9.6
+2c380ea5,North Claudiatown,East Victoria,759.57,46.9
+5c8597a4,Port Sandrachester,North Williamchester,82.91,12.3
+d25bea9b,West Timothychester,West Tarachester,1757.74,19.3
+5b931110,South Ryan,South Jacqueline,492.54,42.8
+b041e5bf,North Christianside,New Patriciashire,1551.12,39.2
+e9aee677,East Victoria,Tiffanyton,1045.27,24.2
+e3705ed8,North Claudiatown,North Justin,1662.58,10.8
+f6516c92,East David,West Tarachester,1468.08,12.7
+92a24587,South Brianside,East Johnshire,1641.5,27.2
+ca913de9,Adammouth,Jonestown,696.37,16.5
+f7ff1aa5,West Tarachester,New Colleen,1699.05,42.8
+ecdb5c8c,Port Ronald,New Patriciashire,1465.46,45.4
+5f3b7b02,North Christopherstad,South Raymond,658.1,32.5
+0b8622df,Tiffanyton,West Wesley,697.24,39.8
+56ac07cd,Port Ronald,North Dawnfort,257.16,16.6
+4337876f,West Timothychester,New Colleen,917.29,18.5
+5c248786,West Tarachester,South Jacqueline,814.58,20.8
+6b23c8e1,North Williamchester,South Ryan,415.01,34.8
+5c87191c,Andersonfurt,Carolmouth,63.09,16.1
+476737a9,West Timothychester,South Brianside,1919.2,40.5
+973a4144,New Patriciashire,Port Ronald,1661.33,28.6
+3cf0e9e8,Hollyshire,Pamelabury,510.22,26.4
+f566e156,Port Barbara,Port Kimberly,1420.82,9.0
+48ed3a35,Port Barbara,Brookeburgh,880.74,47.8
+19e4e09c,Darinton,Tiffanyton,1275.65,23.4
+8b287640,New Jeremyshire,North Arthur,854.43,1.1
+d9a51b70,New Colleen,Adammouth,336.08,20.9
+eb978dd6,Jonestown,North Trevorbury,490.92,13.9
+b476ccb9,West Tarachester,North Trevorbury,882.85,22.5
+63bf7f3d,Davidshire,Darinton,235.86,9.2
+68678395,Port Sandrachester,Heathermouth,316.0,34.2
+201f7970,West Jared,North Dawnfort,111.67,5.9
+c9060e57,Brookeburgh,Ginafort,1678.84,25.5
+1a257a17,West Tarachester,West Timothychester,922.06,16.8
+2123df27,North Christopherstad,New Jesse,1803.12,11.3
+b77350c7,Jasonchester,Adammouth,688.05,16.2
+eac50234,Jasonchester,South Jacqueline,1445.96,22.9
+ff4cfebf,Ginafort,Shannonview,1769.79,20.8
+979941d1,Christinechester,North Arthur,1479.56,41.0
+8a646f36,Port Heather,Port Barbara,297.85,32.1
+1b70b531,Brookeburgh,West Jared,1058.47,47.5
+c4065f4d,South Brianside,Jonestown,515.69,6.9
+3639a9b0,Ginafort,South Raymond,80.29,30.2
+8ca6e8e7,North Trevorbury,North Arthur,209.35,45.3
+a62e0034,Port Kimberly,South Ashleystad,1978.08,44.9
+90919aa8,Carolmouth,West Tarachester,1399.2,38.1
+f7e4bba9,Andersonfurt,Jonestown,242.37,1.2
+bc0394ec,South Ashleystad,South John,651.16,20.6
+a983c170,North Claudiatown,Mooreshire,354.82,15.7
+4624566a,Brookeburgh,Port Sandrachester,1421.8,19.2
+5ff1b483,Heathermouth,West Wesley,1532.86,35.4
+3d79128e,South Raymond,North Williamchester,1946.75,47.8
+d837636c,South Ryan,Darinton,119.35,23.4
+eaaedf3f,New Patriciashire,North Claudiatown,786.59,23.6
+a8e96539,Port Barbara,East Johnshire,1456.12,37.6
+ff87e7cf,New Patriciashire,South Brianside,1305.16,31.5
+ab462c97,Carolmouth,Shannonview,104.55,2.5
+fff18ab2,South Katiemouth,North Justin,1313.68,23.6
+d82fb30e,North Dawnfort,North Christianside,834.06,27.4
+3956d527,North Dawnfort,New Colleen,914.73,35.0
+208f5512,Port Barbara,Adammouth,1306.94,43.7
+ed21aa5b,Shannonview,South Raymond,986.7,27.3
+63e96423,Port Kimberly,North Williamchester,448.27,10.8
+138d275d,East Victoria,West Wesley,371.2,34.9
+c3679db7,North Trevorbury,Ginafort,1459.26,19.0
+05c3c4f1,Port Kimberly,North Christopherstad,576.15,8.8
+39714deb,North Williamchester,West Wesley,1056.88,20.4
+5cd63294,North Justin,Hollyshire,427.18,34.1
+4760d765,South Raymond,Mooreshire,1567.78,3.8
+3ebdccb7,South Raymond,Brookeburgh,657.0,40.8
+0aa30cbb,South John,Kimfort,960.57,15.8
+a3b2d4b5,North Claudiatown,South Brianside,376.55,33.6
+d84d82b8,Davidshire,Heathermouth,1925.24,18.3
+78116b5e,Port Heather,Shannonview,551.59,41.8
+c9e0e185,North Dawnfort,Tiffanyton,615.92,6.3
+c649fc9b,South John,South Katiemouth,1327.6,5.6
+bb78e3c4,Hollyshire,South Katiemouth,1262.69,31.6
+49762386,Ginafort,North Justin,923.11,10.5
+ea8eb208,South Ashleystad,Heathermouth,1688.54,15.3
+a159a77b,East Johnshire,Adammouth,573.27,11.0
+5b494cd2,Jasonchester,Port Kimberly,1959.81,4.0
+ee941e41,West Timothychester,East Johnshire,1981.84,33.9
+834ac996,North Dawnfort,Adammouth,640.65,5.4
+f51c58f6,Jonestown,Jasonchester,665.73,31.2
+2dffd4aa,North Williamchester,Mooreshire,1252.33,40.4
+b32e4acc,New Colleen,Tiffanyton,646.17,11.4
+020e805e,Port Barbara,South Ryan,1781.65,1.8
+fa75f79f,North Williamchester,Port Kimberly,1996.1,43.0
+2d47eda4,North Justin,Kimfort,1345.96,40.3
+64295746,Port Ronald,Brookeburgh,598.48,22.4
+c2e20179,Carolmouth,New Colleen,1855.75,26.4
+ed19877f,Heathermouth,Adammouth,262.16,16.2
+c6485b2b,Andersonfurt,Ginafort,905.75,32.0
+29a4ac1c,Port Kimberly,Port Ronald,1433.26,35.1
+e7697d7b,South Katiemouth,South John,1295.1,40.6
+3db40a4a,North Williamchester,Brookeburgh,305.41,10.3
+fc201dbe,North Arthur,North Trevorbury,801.85,11.4
+b8f675c7,East David,North Williamchester,1620.84,44.8
+f37a963c,North Arthur,Tiffanyton,1413.95,30.2
+de691d90,West Wesley,Pamelabury,891.32,25.1
+d5b21a1e,Hollyshire,North Williamchester,1683.37,36.2
+3ca3aea3,Mooreshire,West Wesley,1739.67,27.9
+5a5bd534,Heathermouth,South Ashleystad,315.43,1.6
+b26bf92a,Jonestown,Kimfort,777.59,8.7
+e729eada,South Ashleystad,New Colleen,1988.11,10.1
+bd2e3ca0,South Jacqueline,North Dawnfort,1390.67,23.3
+0e27cfbb,North Claudiatown,New Jeremyshire,203.71,12.8
+36d91cce,Heathermouth,East David,1802.43,40.1
+6851efca,West Timothychester,Heathermouth,1681.88,15.8
+6fbfc1cf,Tiffanyton,East David,560.96,18.5
+ab489302,North Christianside,North Dawnfort,506.69,29.1
+03e2858e,North Justin,Mooreshire,1231.76,36.6
+12b0773b,Christinechester,West Tarachester,1455.22,45.5
+eb9b4967,Port Heather,Port Kimberly,1581.73,20.4
+7273d21d,Kimfort,Mooreshire,1863.16,36.2
+b6738c65,Port Kimberly,Brookeburgh,753.88,7.5
+eed607ce,Darinton,West Wesley,1091.52,2.5
+86498ba4,Port Barbara,New Patriciashire,667.96,31.5
+0c20507a,North Christianside,South Ashleystad,886.82,5.7
+ec0e095f,North Christianside,South Johnhaven,1916.35,2.1
+11cec27c,Robertsburgh,North Arthur,1758.26,16.5
+963f8c97,Davidshire,Jasonchester,739.34,17.6
+c2abe2b0,Davidshire,Pamelabury,1486.36,29.3
+2ed343e7,Tiffanyton,South Ryan,1575.53,30.7
+354baf69,Davidshire,East David,1916.63,19.9
+7e0f59ed,Pamelabury,East Johnshire,315.63,39.2
+ce93278e,South John,East Johnshire,1926.08,33.2
+56c7e4a3,East Johnshire,Darinton,1328.11,47.0
+f333040b,Mooreshire,New Jeremyshire,1344.51,35.3
+26a23410,East David,Kimfort,1023.83,9.4
+540446ca,East David,East Victoria,929.35,17.8
+44371cee,New Jeremyshire,Jasonchester,1200.31,11.5
+302d298f,South Ashleystad,South Katiemouth,207.27,14.8
+344d740e,Carolmouth,Kimfort,834.95,9.2
+b9614b79,East Victoria,Port Kimberly,418.67,21.9
+26f4ace3,North Arthur,South Jacqueline,607.12,19.7
+e9be9a4d,West Timothychester,Carolmouth,1559.89,17.3
+ca818100,Shannonview,Carolmouth,883.64,44.5
+7230f3b8,North Arthur,Brookeburgh,1542.06,47.3
+05ee2fc0,Port Ronald,North Dawnfort,326.89,15.0
+20a38dde,Port Sandrachester,New Jesse,1517.69,13.1
+e366195a,New Jeremyshire,North Arthur,721.43,1.1
+b2a99e91,East David,New Colleen,534.05,11.5
+9d73f44b,East Johnshire,Davidshire,1414.5,35.5
+4637ca2b,Port Barbara,North Arthur,523.41,5.7
+89eea29c,Adammouth,Andersonfurt,1227.09,4.8
+77d49b51,New Jesse,Pamelabury,1751.24,14.4
+cf66ff28,Jonestown,Tiffanyton,472.6,12.7
+02519a35,Shannonview,West Tarachester,1288.34,9.8
+0a83e3e5,Pamelabury,West Wesley,1184.65,39.6
+1edcd9f4,South Jacqueline,New Jeremyshire,189.11,40.7
+6efd8537,Port Ronald,North Justin,1520.98,42.9
+b44cf1f9,South Brianside,Port Barbara,1038.5,16.7
+677f245c,Port Sandrachester,New Jeremyshire,1147.77,25.5
+ee41c3ed,North Williamchester,Mooreshire,260.56,3.2
+06ad7409,Hollyshire,North Trevorbury,1711.15,15.4
+3f9af77f,South Katiemouth,Port Heather,658.31,20.6
+4a24bb33,New Patriciashire,Robertsburgh,891.01,3.8
+26e1f752,West Wesley,New Patriciashire,396.98,33.4
+dcdfb105,East Victoria,Port Kimberly,1948.09,19.2
+876a8c6b,East Johnshire,North Dawnfort,1051.23,7.4
+37e980d7,South Katiemouth,Hollyshire,803.41,9.5
+0771bba2,South Johnhaven,North Claudiatown,1921.73,11.8
+c52a39b9,East David,West Timothychester,117.54,12.0
+85136379,Port Heather,Jasonchester,374.26,4.2
+537445bc,South Ryan,South Ashleystad,1927.1,19.8
+5da4cc87,Port Sandrachester,Brookeburgh,96.01,37.8
+46a7a54d,West Timothychester,East Victoria,74.77,12.4
+551baabf,North Dawnfort,Heathermouth,1154.39,44.2
+2538cae7,New Jesse,Robertsburgh,295.44,13.8
+7df127e5,West Timothychester,Kimfort,1797.86,43.6
+fc9a2dd6,North Dawnfort,North Williamchester,550.43,21.0
+f49332ac,North Justin,East David,1598.26,32.6
+6cbfc4ba,Port Heather,North Dawnfort,1131.49,29.7
+0811c930,East David,Andersonfurt,1748.05,5.2
+924c54d4,West Wesley,East David,153.39,33.1
+aeaf6ba7,East David,East Victoria,1853.67,12.6
+36ed9364,Port Ronald,Ginafort,1377.33,14.8
+df53cae2,East David,South John,1301.51,2.6
+2840803d,North Claudiatown,Andersonfurt,735.23,42.8
+d99be0c4,Port Barbara,North Claudiatown,446.59,29.0
+3af929dc,Hollyshire,South John,760.08,13.2
+53233c16,Port Kimberly,Davidshire,1756.17,40.2
+439164cf,New Patriciashire,North Williamchester,1746.79,24.1
+214be37e,South John,North Trevorbury,1776.16,43.7
+e9a3f3c5,South Ryan,Adammouth,1532.07,44.4
+12bd4e04,Christinechester,West Tarachester,828.43,23.3
+cbdb9a8e,South Katiemouth,West Wesley,1054.68,2.0
+5c013e52,South Katiemouth,South Brianside,621.85,37.8
+16d244aa,North Trevorbury,North Claudiatown,988.21,29.3
+3f9b2ef6,Kimfort,Mooreshire,286.71,9.5
+46f992b3,New Jeremyshire,Adammouth,1348.13,36.9
+7ea8c342,Ginafort,Tiffanyton,811.34,3.7
+841b4c87,Davidshire,South John,1526.61,32.7
+c2a046d4,South Johnhaven,East Victoria,678.5,32.3
+5028f392,West Jared,Brookeburgh,699.14,17.2
+c40a8078,East Johnshire,Brookeburgh,1937.41,12.1
+9fb215b4,New Jesse,North Arthur,994.25,13.3
+12a59135,Brookeburgh,Adammouth,866.49,28.0
+e04c3dca,Shannonview,East Victoria,1827.4,6.0
+6f91fc42,West Jared,Port Kimberly,804.22,33.6
+9d3cf01f,Andersonfurt,South Raymond,390.62,10.3
+9199efe6,New Jesse,North Christianside,507.62,1.5
+c2a9faa8,Adammouth,Christinechester,1419.55,15.2
+de81a7fb,Tiffanyton,North Christopherstad,785.04,35.3
+3336c4ad,North Arthur,Davidshire,679.38,30.8
+83d924ca,North Christopherstad,West Timothychester,1881.72,29.6
+e971848f,Port Sandrachester,South John,1942.5,36.5
+ffc7ad24,Port Heather,Port Kimberly,388.86,47.1
+b776a0b6,East Johnshire,South Raymond,1726.14,44.3
+3f1ca489,Jonestown,Carolmouth,733.98,39.6
+2ef73612,New Colleen,West Timothychester,797.81,30.1
+e9d81385,Port Sandrachester,West Timothychester,64.04,25.1
+75e73bb5,Carolmouth,Christinechester,1187.16,32.6
+f6d7b9c0,Kimfort,West Tarachester,703.66,10.9
+fe798e26,East Victoria,Port Barbara,1284.92,11.5
+f797bcc2,South Brianside,West Timothychester,1071.43,15.5
+1924712a,Port Kimberly,South Jacqueline,111.86,2.2
+5fe3a360,Kimfort,North Arthur,1308.21,41.1
+e287e431,Port Kimberly,South John,459.82,25.4
+82cd9a5c,Hollyshire,Port Sandrachester,412.94,42.1
+c0d4b161,New Jeremyshire,West Tarachester,560.23,42.7
+6a12aedb,South Ryan,Shannonview,62.93,1.6
+ed1babf8,South Katiemouth,Ginafort,343.04,6.0
+e5fc465a,Kimfort,North Justin,1004.43,2.1
+5c58bbc2,Carolmouth,Brookeburgh,1389.63,22.1
+f9b3c540,West Jared,South Brianside,820.54,20.8
+6a398cfc,South Brianside,Mooreshire,931.29,5.4
+baf61557,Port Ronald,New Jesse,50.06,41.0
+be7a696c,Port Kimberly,Port Barbara,457.92,34.4
+7e7b6961,South Jacqueline,Port Heather,1508.3,2.2
+62b4382c,New Jeremyshire,Port Sandrachester,1161.17,5.0
+6d54c9b9,North Williamchester,Carolmouth,1792.23,34.9
+22ec15bd,South Brianside,Hollyshire,1955.46,11.1
+2600f4fc,South Brianside,North Christianside,1278.39,8.9
+769db22b,Shannonview,East David,756.59,26.2
+458b2686,Christinechester,West Jared,953.21,27.4
+8d6dda5e,West Jared,North Claudiatown,1906.63,22.2
+f0c829f0,South Katiemouth,South Jacqueline,1974.6,13.9
+888f52aa,North Christopherstad,Port Sandrachester,441.03,33.5
+b151c45e,East David,Christinechester,1595.14,3.2
+d8398993,New Jeremyshire,New Patriciashire,966.48,17.6
+55f743ca,North Christopherstad,Christinechester,641.97,11.8
+053c75e8,West Timothychester,East Victoria,941.41,26.5
+fc085c4e,Brookeburgh,South Jacqueline,1169.46,9.5
+0ca8ad88,Carolmouth,North Claudiatown,1301.33,29.2
+bdd77f95,Jonestown,East Johnshire,758.29,8.3
+adae46b7,Davidshire,Adammouth,1493.72,39.8
+ac0c713a,Jonestown,North Claudiatown,133.82,37.2
+1a12ed63,South Jacqueline,South John,138.52,29.8
+24d2628a,Hollyshire,Kimfort,1954.6,19.4
+2d0f2494,North Christianside,East Victoria,1855.0,8.3
+19d26fdd,New Colleen,North Justin,1793.35,1.1
+eaedb2c4,Port Kimberly,North Dawnfort,1453.17,46.0
+ae770e9a,Jonestown,Carolmouth,1793.67,11.6
+41a23667,Robertsburgh,West Wesley,482.52,17.4
+66383892,Robertsburgh,North Claudiatown,346.82,31.5
+99520b66,South Raymond,South Brianside,1639.35,24.1
+f276f597,Darinton,North Justin,842.66,35.1
+76831237,Hollyshire,North Arthur,251.28,9.2
+4f65fc2b,Port Kimberly,Mooreshire,1378.0,44.2
+29aaa0d7,New Jesse,Port Kimberly,1838.08,29.1
+ded52122,Port Sandrachester,Hollyshire,1831.22,20.8
+ee1374dc,Darinton,West Jared,608.96,5.2
+3fb67e80,Port Barbara,South Ashleystad,596.61,7.1
+3536141b,Mooreshire,West Wesley,477.54,40.2
+b0032323,Port Sandrachester,Ginafort,1771.75,45.2
+5ce41b40,Port Ronald,Ginafort,240.83,27.3
+67a73102,Darinton,Hollyshire,1875.76,37.3
+7ac6ee20,Brookeburgh,South Katiemouth,1185.17,32.2
+d5316d4e,East David,West Timothychester,1898.92,30.0
+6bb33ab0,South Brianside,New Colleen,590.92,15.4
+02de0deb,Jonestown,Darinton,383.68,40.1
+62386d74,South Jacqueline,Pamelabury,1636.76,30.2
+7adf4a1b,Jasonchester,South Brianside,1772.28,4.2
+f61754a1,Brookeburgh,North Trevorbury,1472.85,30.8
+014802ea,New Patriciashire,Davidshire,226.91,28.6
+ba430f1b,East Victoria,West Wesley,240.64,11.1
+a6acaaf8,North Christianside,Jasonchester,1034.7,28.8
+54f66f93,West Jared,North Dawnfort,911.96,36.1
+4aaa536b,Robertsburgh,South Brianside,1830.45,7.9
+426a1640,South Ashleystad,Kimfort,1470.82,38.3
+35d6fc20,New Jeremyshire,Davidshire,507.25,4.6
+19001163,East Johnshire,North Trevorbury,1242.36,23.9
+aa944ad5,North Claudiatown,Shannonview,1597.7,4.1
+b32c02fe,South Raymond,Adammouth,1560.07,34.5
+6f3cea29,Jonestown,North Arthur,1022.11,13.8
+d66ea20e,North Justin,South Raymond,1081.93,7.1
+d5ab6f1c,North Claudiatown,South Ashleystad,1902.52,20.5
+5e7a0d98,Port Heather,North Claudiatown,566.73,23.3
+32677c89,North Arthur,Jonestown,794.34,23.2
+6507fc5f,Ginafort,Christinechester,800.33,21.1
+a0e80695,South Katiemouth,South John,1715.92,1.9
+6b957555,Port Ronald,West Timothychester,1068.27,4.5
+b603f013,New Patriciashire,Carolmouth,138.85,5.3
+dd39698f,Port Ronald,New Jeremyshire,1531.48,20.9
+46278d9b,South Johnhaven,New Patriciashire,226.31,11.3
+f9063a03,East David,Port Heather,1883.57,33.9
+3d80d016,Heathermouth,Pamelabury,1021.67,35.8
+c16a97e7,Heathermouth,Christinechester,438.8,1.5
+1a379f8d,South Ashleystad,Mooreshire,398.97,12.9
+1432b414,East David,Brookeburgh,50.97,14.7
+65c335ba,Shannonview,South Johnhaven,887.82,22.1
+3e6cb350,South Ryan,Andersonfurt,1348.2,37.1
+a3e0bbf3,Port Barbara,Hollyshire,193.8,11.3
+b6ddd216,Ginafort,North Williamchester,1207.74,39.8
+5737567e,South Ashleystad,Port Ronald,309.74,11.0
+4312c9d1,East Johnshire,Robertsburgh,1391.83,38.2
+2d0f7f20,Tiffanyton,North Christopherstad,1735.73,21.9
+a6591aea,North Trevorbury,New Colleen,906.65,34.7
+06a3619b,South Brianside,New Jesse,1662.54,28.0
+47295a97,Pamelabury,Port Heather,807.79,7.9
+5e1e43aa,Robertsburgh,Ginafort,743.72,27.2
+8e04aab3,South Brianside,Ginafort,1012.59,17.6
+2495d372,Port Kimberly,Davidshire,1950.01,46.2
+13677bd2,South Katiemouth,South Johnhaven,669.31,4.9
+b30e2913,Darinton,Mooreshire,1241.38,14.3
+035e9853,Port Ronald,South Johnhaven,701.6,20.7
+7fab6e98,East David,West Wesley,516.61,26.4
+f1d26628,West Jared,South Ryan,695.54,11.8
+31f068aa,Ginafort,Mooreshire,1557.96,4.3
+4209541c,North Justin,Tiffanyton,1069.02,6.1
+57d4de89,Kimfort,Port Heather,672.43,6.8
+ed2cd32f,Port Sandrachester,Port Heather,1055.19,46.1
+085ae29b,North Christopherstad,South Ashleystad,1034.98,29.0
+1c24fb0f,Andersonfurt,Ginafort,902.18,2.4
+bb2b34a0,East Victoria,North Williamchester,264.36,17.6
+cc8ebb89,Andersonfurt,East David,1912.53,32.2
+f7c79e38,Hollyshire,Port Sandrachester,957.24,13.4
+372b8bf8,Jonestown,Andersonfurt,1776.04,36.7
+816c72a4,Port Sandrachester,Ginafort,1009.41,22.6
+9229b1da,South Ryan,North Trevorbury,1569.37,36.4
+2ec831fb,Brookeburgh,New Jesse,1985.94,18.7
+5071954b,Port Kimberly,West Wesley,1351.06,26.7
+4c3b15af,Christinechester,South Jacqueline,1225.27,39.7
+c4831b4c,North Arthur,South Ashleystad,106.94,10.3
+57451582,South Brianside,East Victoria,144.55,15.1
+e76f1a23,North Christianside,Adammouth,1663.75,22.8
+cf2f47eb,North Arthur,Port Sandrachester,976.86,47.5
+4d735456,New Jeremyshire,Port Heather,1032.92,36.4
+c16577fa,North Christopherstad,Port Kimberly,923.96,23.1
+e400405d,Brookeburgh,West Wesley,1741.42,24.7
+0cc70692,South Brianside,Tiffanyton,511.86,40.2
+4f8621c2,Ginafort,North Williamchester,1973.13,1.1
+779a7e23,Port Ronald,Adammouth,1411.45,22.5
+661e0e89,South Brianside,Jonestown,1030.85,34.9
+2f5aded1,Christinechester,North Williamchester,79.63,2.2
+9e431131,Heathermouth,South Ashleystad,372.03,13.8
+57cc6674,Kimfort,West Jared,998.16,12.3
+7854b3da,Darinton,West Wesley,793.37,41.2
+eb86bd15,North Claudiatown,Jonestown,268.98,42.5
+6b261d1f,Jonestown,Shannonview,1099.71,17.9
+86e7392e,South Johnhaven,South Brianside,92.3,16.6
+0154da2e,North Williamchester,Heathermouth,1488.92,4.0
+876b523e,Brookeburgh,West Jared,972.38,9.5
+7d4f802e,Darinton,Kimfort,514.95,24.3
+901879fa,South Ryan,North Claudiatown,1767.51,30.7
+f24160d6,West Wesley,Kimfort,1535.35,37.6
+d2e2837f,North Trevorbury,North Arthur,692.18,27.4
+7ca21d80,North Arthur,Adammouth,406.24,21.5
+68f55a67,South Raymond,Jasonchester,1547.03,25.8
+1f571fff,Mooreshire,Kimfort,1137.08,13.6
+23d6ca93,Jonestown,East Johnshire,833.28,22.8
+7e163bb8,West Jared,North Claudiatown,370.47,24.2
+b76d73ec,North Christopherstad,Jasonchester,1886.07,28.7
+26a5a0b9,New Jesse,Port Kimberly,1682.91,43.4

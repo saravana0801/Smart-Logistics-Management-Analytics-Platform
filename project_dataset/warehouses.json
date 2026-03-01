@@ -1,0 +1,302 @@
+[
+    {
+        "warehouse_id": "647a65d8",
+        "city": "North Claudiatown",
+        "state": "SC",
+        "capacity": 9821
+    },
+    {
+        "warehouse_id": "8bdbd012",
+        "city": "East David",
+        "state": "MT",
+        "capacity": 1138
+    },
+    {
+        "warehouse_id": "cfcbd086",
+        "city": "North Justin",
+        "state": "ND",
+        "capacity": 6019
+    },
+    {
+        "warehouse_id": "3bff4497",
+        "city": "Port Sandrachester",
+        "state": "CT",
+        "capacity": 3300
+    },
+    {
+        "warehouse_id": "6767e7a4",
+        "city": "North Williamchester",
+        "state": "SD",
+        "capacity": 6822
+    },
+    {
+        "warehouse_id": "fb4f0c1e",
+        "city": "North Christianside",
+        "state": "WI",
+        "capacity": 1419
+    },
+    {
+        "warehouse_id": "0647f147",
+        "city": "North Arthur",
+        "state": "OH",
+        "capacity": 5716
+    },
+    {
+        "warehouse_id": "fde209a7",
+        "city": "Davidshire",
+        "state": "MT",
+        "capacity": 3014
+    },
+    {
+        "warehouse_id": "48885907",
+        "city": "South Brianside",
+        "state": "WI",
+        "capacity": 8819
+    },
+    {
+        "warehouse_id": "eb497b1e",
+        "city": "Christinechester",
+        "state": "WI",
+        "capacity": 7387
+    },
+    {
+        "warehouse_id": "7caf8d4a",
+        "city": "Andersonfurt",
+        "state": "NC",
+        "capacity": 3229
+    },
+    {
+        "warehouse_id": "0f74ba8c",
+        "city": "East Victoria",
+        "state": "VA",
+        "capacity": 7146
+    },
+    {
+        "warehouse_id": "41b6192b",
+        "city": "Port Kimberly",
+        "state": "ID",
+        "capacity": 6291
+    },
+    {
+        "warehouse_id": "da7f8abf",
+        "city": "West Timothychester",
+        "state": "OH",
+        "capacity": 4759
+    },
+    {
+        "warehouse_id": "21a4e02c",
+        "city": "Darinton",
+        "state": "MA",
+        "capacity": 2467
+    },
+    {
+        "warehouse_id": "85c9673b",
+        "city": "Port Ronald",
+        "state": "AR",
+        "capacity": 4498
+    },
+    {
+        "warehouse_id": "9805fcb9",
+        "city": "West Wesley",
+        "state": "WV",
+        "capacity": 3101
+    },
+    {
+        "warehouse_id": "c0bb59a2",
+        "city": "South Ashleystad",
+        "state": "VT",
+        "capacity": 7304
+    },
+    {
+        "warehouse_id": "260917ca",
+        "city": "Carolmouth",
+        "state": "HI",
+        "capacity": 3151
+    },
+    {
+        "warehouse_id": "951758e8",
+        "city": "Kimfort",
+        "state": "OH",
+        "capacity": 7926
+    },
+    {
+        "warehouse_id": "b84c93ef",
+        "city": "Robertsburgh",
+        "state": "MI",
+        "capacity": 5182
+    },
+    {
+        "warehouse_id": "f3eba9d9",
+        "city": "North Christopherstad",
+        "state": "PA",
+        "capacity": 1418
+    },
+    {
+        "warehouse_id": "3d9c3505",
+        "city": "New Jesse",
+        "state": "CA",
+        "capacity": 7331
+    },
+    {
+        "warehouse_id": "696538cc",
+        "city": "North Trevorbury",
+        "state": "NV",
+        "capacity": 6966
+    },
+    {
+        "warehouse_id": "f5de23cd",
+        "city": "South Ryan",
+        "state": "NH",
+        "capacity": 4454
+    },
+    {
+        "warehouse_id": "badfd592",
+        "city": "Pamelabury",
+        "state": "CO",
+        "capacity": 6722
+    },
+    {
+        "warehouse_id": "445b5ce6",
+        "city": "Brookeburgh",
+        "state": "OK",
+        "capacity": 3315
+    },
+    {
+        "warehouse_id": "7aec3044",
+        "city": "Jonestown",
+        "state": "CT",
+        "capacity": 6817
+    },
+    {
+        "warehouse_id": "f49c722a",
+        "city": "Tiffanyton",
+        "state": "WV",
+        "capacity": 9343
+    },
+    {
+        "warehouse_id": "58df4cbf",
+        "city": "New Patriciashire",
+        "state": "MT",
+        "capacity": 1820
+    },
+    {
+        "warehouse_id": "131d4feb",
+        "city": "West Jared",
+        "state": "NM",
+        "capacity": 9265
+    },
+    {
+        "warehouse_id": "e0fe2c38",
+        "city": "South Katiemouth",
+        "state": "MS",
+        "capacity": 6218
+    },
+    {
+        "warehouse_id": "74ba985d",
+        "city": "South John",
+        "state": "ID",
+        "capacity": 1533
+    },
+    {
+        "warehouse_id": "b4622995",
+        "city": "East Johnshire",
+        "state": "CA",
+        "capacity": 2080
+    },
+    {
+        "warehouse_id": "029f2908",
+        "city": "New Jeremyshire",
+        "state": "HI",
+        "capacity": 9549
+    },
+    {
+        "warehouse_id": "6f108806",
+        "city": "South Johnhaven",
+        "state": "OK",
+        "capacity": 1428
+    },
+    {
+        "warehouse_id": "1fd957e1",
+        "city": "Ginafort",
+        "state": "OR",
+        "capacity": 4365
+    },
+    {
+        "warehouse_id": "2a1bebcd",
+        "city": "Heathermouth",
+        "state": "GA",
+        "capacity": 8698
+    },
+    {
+        "warehouse_id": "ce02458e",
+        "city": "North Dawnfort",
+        "state": "AK",
+        "capacity": 1657
+    },
+    {
+        "warehouse_id": "6581a28b",
+        "city": "South Jacqueline",
+        "state": "ID",
+        "capacity": 7545
+    },
+    {
+        "warehouse_id": "725027b4",
+        "city": "South Raymond",
+        "state": "SC",
+        "capacity": 8378
+    },
+    {
+        "warehouse_id": "89c71b15",
+        "city": "Port Heather",
+        "state": "NV",
+        "capacity": 1360
+    },
+    {
+        "warehouse_id": "29b6d374",
+        "city": "Adammouth",
+        "state": "CT",
+        "capacity": 7976
+    },
+    {
+        "warehouse_id": "c26205f3",
+        "city": "Port Barbara",
+        "state": "CT",
+        "capacity": 3814
+    },
+    {
+        "warehouse_id": "82b42412",
+        "city": "Jasonchester",
+        "state": "RI",
+        "capacity": 4897
+    },
+    {
+        "warehouse_id": "e3a2d775",
+        "city": "Shannonview",
+        "state": "GU",
+        "capacity": 9915
+    },
+    {
+        "warehouse_id": "280d966c",
+        "city": "West Tarachester",
+        "state": "NH",
+        "capacity": 6219
+    },
+    {
+        "warehouse_id": "6ee4f2f0",
+        "city": "Hollyshire",
+        "state": "VI",
+        "capacity": 9963
+    },
+    {
+        "warehouse_id": "e25788e6",
+        "city": "New Colleen",
+        "state": "ME",
+        "capacity": 1795
+    },
+    {
+        "warehouse_id": "ade45415",
+        "city": "Mooreshire",
+        "state": "VT",
+        "capacity": 4894
+    }
+]
