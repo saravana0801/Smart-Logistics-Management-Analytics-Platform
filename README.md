@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-## 🌍 Overview
+## Overview
 
 The **Smart Logistics Management & Analytics Platform** is an end-to-end
 data analytics system that simulates real-world logistics operations
@@ -19,35 +19,38 @@ and warehouse utilization.
 
 ------------------------------------------------------------------------
 
-## ✨ Key Highlights
+## Key Highlights
 
-✅ End-to-End Data Analytics Pipeline\
-✅ Normalized Relational Database Design\
-✅ Interactive Business Intelligence Dashboard\
-✅ Dynamic Filtering & KPI Monitoring\
-✅ Real-World Logistics Use Case Simulation\
-✅ Production-Style Project Structure
-
-------------------------------------------------------------------------
-
-## 🧱 System Architecture
-
-Data Sources (CSV / JSON) ↓ Data Processing (Python) ↓ MySQL Relational
-Database ↓ SQL Analytics Layer ↓ Streamlit Dashboard ↓ Operational
-Insights
+-    End-to-End Data Analytics Pipeline
+-    Normalized Relational Database Design
+-    Interactive Business Intelligence Dashboard
+-    Dynamic Filtering & KPI Monitoring
+-    Real-World Logistics Use Case Simulation
+-    Production-Style Project Structure
 
 ------------------------------------------------------------------------
 
-## 📊 Dashboard Capabilities
+## System Architecture
 
-### 🔎 Shipment Intelligence
+1. Data Sources (CSV / JSON)
+2. Data Processing (Python)
+3. MySQL Relational Database
+4. SQL Analytics Layer
+5. Streamlit Dashboard
+6. OperationalInsights
+
+------------------------------------------------------------------------
+
+## Dashboard Capabilities
+
+###  Shipment Intelligence
 
 -   Shipment ID search
 -   Status-based filtering
 -   Route & courier analysis
 -   Date range exploration
 
-### 📈 Operational KPIs
+### Operational KPIs
 
 -   Total Shipments
 -   Delivery Success Rate
@@ -55,7 +58,7 @@ Insights
 -   Average Delivery Time
 -   Operational Cost Monitoring
 
-### 📉 Analytics Modules
+### Analytics Modules
 
 -   Delivery Performance Insights
 -   Courier Performance Analytics
@@ -65,7 +68,7 @@ Insights
 
 ------------------------------------------------------------------------
 
-## 🗄️ Data Model
+## Data Model
 
 The system integrates multiple logistics entities:
 
@@ -78,27 +81,29 @@ The system integrates multiple logistics entities:
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-  Layer               Technology
-  ------------------- ------------
-  Programming         Python
-  Database            MySQL
-  Data Analysis       Pandas
-  Backend Connector   SQLAlchemy
-  Dashboard           Streamlit
-  Config Management   dotenv
-
-------------------------------------------------------------------------
-
-## 🚀 Project Workflow
-
-Dataset Ingestion ↓ Database Modeling ↓ SQL Analytics Queries ↓
-Dashboard Development ↓ Interactive Business Insights
+|Layer | Technology |
+|------|------------|
+| Language | Python |
+| Database | MySQL |
+| Dashboard | Streamlit |
+| Data Processing | Pandas |
+| ORM | SQLAlchemy |
 
 ------------------------------------------------------------------------
 
-## 💼 Business Value
+## Project Workflow
+
+1. Dataset Ingestion
+2. Database Modeling
+3. SQL Analytics Queries
+4. Dashboard Development
+5. Interactive Business Insights
+
+------------------------------------------------------------------------
+
+## Business Value
 
 This platform helps logistics management teams:
 
@@ -111,18 +116,18 @@ This platform helps logistics management teams:
 
 ------------------------------------------------------------------------
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
--   Data Engineering Fundamentals\
--   Relational Database Design\
--   SQL Analytics & Optimization\
--   Backend Integration\
--   Interactive Dashboard Development\
+-   Data Engineering Fundamentals
+-   Relational Database Design
+-   SQL Analytics & Optimization
+-   Backend Integration
+-   Interactive Dashboard Development
 -   Business Intelligence Thinking
 
 ------------------------------------------------------------------------
 
-## ⚙️ Run Locally
+## Run Locally
 
 ``` bash
 git clone https://github.com/your-username/smart-logistics-platform.git
