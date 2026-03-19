@@ -130,7 +130,7 @@ This platform helps logistics management teams:
 ## Run Locally
 
 ``` bash
-git clone https://github.com/your-username/smart-logistics-platform.git
+git clone https://github.com/saravana0801/smart-logistics-platform.git
 cd smart-logistics-platform
 pip install -r requirements.txt
 streamlit run app/main.py
